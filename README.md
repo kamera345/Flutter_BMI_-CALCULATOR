@@ -1,6 +1,5 @@
 # flutter_bmicalculator
-
-A new Flutter application.
+To calculate the Body mass Index.
 
 ## Getting Started
 
